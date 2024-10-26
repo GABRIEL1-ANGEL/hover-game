@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+button {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+button.a {
+    color: #000;
+    padding: 20px 40px;
+}
+
+button.a:hover {
+    color: blue;
+    background-color: red;
+}
+
+button.b {
+    color: #000;
+    padding: 20px 40px;
+}
+
+button.b:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+button.c {
+    color: #000;
+    padding: 20px 40px;
+}
+
+button.c:hover {
+    color: yellow;
+    background-color: green;
+}
+
+button.d {
+    color: #000;
+    padding: 20px 40px;
+}
+
+button.d:hover {
+    color: pink;
+    background-color: violet;
+}
+
+button.e{
+    color: #000;
+    padding: 20px 40px;
+}
+
+button.e:hover {
+    color: darkmagenta;
+    background-color: pink;
+}
+
